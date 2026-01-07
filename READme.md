@@ -1,4 +1,4 @@
-## Real-Time Streaming Data Processing Pipeline
+## README: Real-Time Streaming End to End Data Processing Pipeline 
 
 ### Course
 CISC 5950 – Big Data Computing
