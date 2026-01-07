@@ -1,4 +1,3 @@
-# CISC 5950 – Project 2 (Option 2)
 ## Real-Time Streaming Data Processing Pipeline
 
 ### Course
