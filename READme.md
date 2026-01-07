@@ -87,10 +87,9 @@ The project code and configuration were adapted from the provided tutorial and e
 
 ---
 
-## Technologies Used
+## System Components
 
 - Apache Spark (Spark Streaming / Structured Streaming)
 - Apache Kafka
 - Docker & Docker Compose
 - Python
-
